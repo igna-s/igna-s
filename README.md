@@ -1,25 +1,24 @@
 <h1 align="center">Hi, I'm Ignacio A. Schwindt <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Hand waving" width="40" height="40"/></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Computer+Engineering+Student;Cat+Enjoyer;Coding+Enthusiast;Studying+at+UNLP;Follow+Me+%3A)">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Computer+Engineering+Student;Cat+Enjoyer;Coding+Enthusiast;Studying+at+UNLP;Follow+Me+%3A)" alt="Typing Animation"/>
 </p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" style="width: 50%; height: auto;" />
 </div>
 
-
-
+---
 
 - 🔭 I’m currently studying at [UNLP](https://unlp.edu.ar/)
-
-- 🌱 I’m currently learning **JavaScript, SQL**
+- 🌱 I’m currently learning **JavaScript, SQL, Advanced English**
+- 👯 I’m looking to improve my knowledge in AI
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/sfsfaag" target="_blank">
+  <a href="https://www.linkedin.com/in/ignacio-schwindt" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/igna-s" target="_blank">
@@ -28,8 +27,6 @@
   <a href="mailto:ignacio.schwindt.dev@gmail.com" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
   </a>
-</p>
-
 </p>
 
 ---
@@ -70,6 +67,7 @@
 
 ---
 
+<h3 align="left">GitHub Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igna-s&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=igna-s&show_icons=true&locale=en&theme=dark" alt="Stats" height="200" />
@@ -81,3 +79,10 @@
   </a> 
 </p>
 
+---
+
+<h3 align="left">Additional:</h3>
+<ol>
+  <li>👨‍💻 I'm passionate about <strong>AI</strong>, <strong>Data Science</strong>, and <strong>Web Development</strong></li>
+  <li>🎮 I enjoy <strong>cats</strong>, <strong>gaming</strong>, <strong>3D modeling</strong>, and <strong>software development</strong></li>
+</ol>
