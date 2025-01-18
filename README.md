@@ -15,8 +15,6 @@
 
 - 🌱 I’m currently learning **JavaScript, SQL**
 
-- 📫 How to contact me: **ignacio.schwindt.dev@gmail.com**
-
 ---
 
 <h3 align="left">Connect with me:</h3>
@@ -30,6 +28,8 @@
   <a href="mailto:ignacio.schwindt.dev@gmail.com" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
   </a>
+</p>
+
 </p>
 
 ---
