@@ -91,4 +91,5 @@
 </ol>
 
 
-[Animación de serpiente]( https://raw.githubusercontent.com/{igna-s}/ {igna-s}/output/github-contribution-grid-snake-dark.svg )
+## Feeding...
+![Snake animation](https://raw.githubusercontent.com/igna-s/igna-s/output/github-contribution-grid-snake-dark.svg)
