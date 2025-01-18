@@ -79,6 +79,9 @@
   </a> 
 </p>
 
+
+
+
 ---
 
 <h3 align="left">Additional:</h3>
@@ -88,3 +91,4 @@
 </ol>
 
 
+![Animación de serpiente]( https://raw.githubusercontent.com/{igna-s}/ {igna-s}/output/github-contribution-grid-snake-dark.svg )
