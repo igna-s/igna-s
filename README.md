@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ignacio A. Schwindt</h1>
 <h3 align="center">Computer Engineering Student and cat lover 🐈</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=igna-s&label=Profile%20views&color=0e75b6&style=flat" alt="igna-s" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igna-s" alt="igna-s" /></a> </p>
-
 - 🔭 I’m currently studing in [UNLP](https://unlp.edu.ar/)
 
 - 🌱 I’m currently learning **Javascript, SQL**
@@ -23,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igna-s&show_icons=true&locale=en&layout=compact" alt="igna-s" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igna-s&show_icons=true&locale=en" alt="igna-s" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igna-s" alt="igna-s" /></a> </p>
