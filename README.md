@@ -64,7 +64,7 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
   </a>
   <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/5/5b/SolidWorks_Logo.png" alt="SolidWorks" width="40" height="40"/>
+    <img src="sw.png" alt="SolidWorks" width="40" height="40"/>
   </a>
 </p>
 
