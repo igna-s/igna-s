@@ -11,7 +11,7 @@
 ---
 
 - 🔭 I’m currently studying at [UNLP](https://unlp.edu.ar/)
-- 🌱 I’m currently learning **JavaScript, SQL, Advanced English**
+- 🌱 I’m currently learning **JavaScript, SQL, English**
 - 👯 I’m looking to improve my knowledge in AI
 
 ---
