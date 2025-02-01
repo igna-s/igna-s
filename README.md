@@ -18,7 +18,7 @@
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/ignacio-andrés-schwindt" target="_blank">
+  <a href="https://www.linkedin.com/in/ignacio-andr%C3%A9s-schwindt/" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/igna-s" target="_blank">
