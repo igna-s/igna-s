@@ -7,88 +7,49 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" style="width: 50%; height: auto;" />
 </div>
-h
+
 ---
 
 - 🔭 I’m currently studying at [UNLP](https://unlp.edu.ar/)
-- 🌱 I’m currently learning **JavaScript, SQL, English**
+- 🌱 I’m currently learning **Data Science, English**
 - 👯 I’m looking to improve my knowledge in AI
 
 ---
 
 <h3 align="left">Contact me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ignacio-andr%C3%A9s-schwindt/" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/igna-s" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="mailto:ignacio.schwindt.dev@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
-  </a>
-</p>
+
+| LinkedIn | LeetCode | Gmail |
+| --- | --- | --- |
+| <div align="center"><a href="https://www.linkedin.com/in/ignacio-andr%C3%A9s-schwindt/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="30" width="40"/></a></div> | <div align="center"><a href="https://www.leetcode.com/igna-s" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/></a></div> | <div align="center"><a href="mailto:ignacio.schwindt.dev@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40"/></a></div> |
+
 
 ---
-<h3 align="center">Tools and Technologies</h3>
+<h3 align="left">Tools and Technologies</h3>
 
-<div style="display: flex; flex-direction: column; gap: 1.5rem; margin: 0 auto; max-width: 600px;">
+#### Programming Languages
 
-  <div>
-    <h4 style="margin-bottom: 0.5rem;">Programming Languages</h4>
-    <p>
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-      </a>
-      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-      </a>
-      <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-      </a>
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-      </a>
-    </p>
-  </div>
+| C | C# | Java | Python |
+| --- | --- | --- | --- |
+| <div align="center"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/></a></div> | <div align="center"><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/></a></div> | <div align="center"><a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/></a></div> | <div align="center"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a></div> |
 
-  <div>
-    <h4 style="margin-bottom: 0.5rem;">3D Design and Modeling</h4>
-    <p>
-      <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-      </a>
-      <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/SolidWorks_Logo.png" alt="SolidWorks" width="40" height="40"/>
-      </a>
-      <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-      </a>
-    </p>
-  </div>
+#### 3D Design and Modeling
 
-  <div>
-    <h4 style="margin-bottom: 0.5rem;">Computation and Analysis</h4>
-    <p>
-      <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-      </a>
-    </p>
-  </div>
+| Blender | SolidWorks | Unity |
+| --- | --- | --- |
+| <div align="center"><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" title="Blender" alt="Blender" width="40" height="40"/></a></div> | <div align="center"><a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img src="sw.png" title="SolidWorks" alt="SolidWorks" width="40" height="40"/></a></div> | <div align="center"><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" title="Unity" alt="Unity" width="40" height="40"/></a></div> |
 
-  <div>
-    <h4 style="margin-bottom: 0.5rem;">Other Tools</h4>
-    <p>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-      </a>
-      <a href="https://www.photoshop.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-      </a>
-    </p>
-  </div>
+#### Computation and Analysis
 
-</div>
+| MATLAB |
+| --- |
+| <div align="center"><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLAB" alt="MATLAB" width="40" height="40"/></a></div> |
+
+#### Other Tools
+
+| Git | Bash | Keras |
+| --- | --- | --- |
+| <div align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a></div> | <div align="center"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/></a></div> | <div align="center"><a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" title="Keras" alt="Keras" width="40" height="40"/></a></div> |
+
 
 ---
 
