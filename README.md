@@ -10,7 +10,7 @@
 
 ---
 
-- 🔭 I’m currently studying at [UNLP](https://unlp.edu.ar/)
+- 🔭 I’m currently studying at [UNLP](https://unlp.edu.ar/) 
 - 🌱 I’m currently learning **Data Science, English**
 - 👯 I’m looking to improve my knowledge in AI
 
