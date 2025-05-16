@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ignacio A. Schwindt <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Hand waving" width="40" height="40"/></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Computer+Engineering+Student;Cat+Enjoyer;Coding+Enthusiast;Studying+at+UNLP;Follow+Me+%3A)" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Computer+Engineering+Student;Cat+Lover;Coding+Enthusiast;Studying+at+UNLP;Follow+Me+%3A)" alt="Typing Animation"/>
 </p>
 
 <div align="center">
