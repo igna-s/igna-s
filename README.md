@@ -35,35 +35,32 @@
 
 #### 3D Design and Modeling
 
-| Blender | SolidWorks | Unity | Cura | Tinkercad |
-| --- | --- | --- | --- | --- |
-| <div align="center"><a href="https://www.blender.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="40" height="40"/></a></div> | <div align="center"><a href="https://www.solidworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/SolidWorks_Logo.png" width="40" height="40"/></a></div> | <div align="center"><a href="https://unity.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" width="40" height="40"/></a></div> | <div align="center"><a href="https://ultimaker.com/software/ultimaker-cura" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Cura_Logo.png" width="40" height="40"/></a></div> | <div align="center"><a href="https://www.tinkercad.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Tinkercad_Logo.png" width="40" height="40"/></a></div> |
 
 
+| Blender | SolidWorks | Unity | Cura | Tinkercad | AutoCAD |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <a href="https://www.blender.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="40" height="40" alt="Logo de Blender"/></a> | <a href="https://www.solidworks.com/" target="_blank"><img src="data/solidworks.png" width="40" height="40" alt="Logo de SolidWorks"/></a> | <a href="https://unity.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" width="40" height="40" alt="Logo de Unity"/></a> | <a href="https://ultimaker.com/software/ultimaker-cura" target="_blank"><img src="data/cura.png" width="40" height="40" alt="Logo de Cura"/></a> | <a href="https://www.tinkercad.com/" target="_blank"><img src="data/tinkercad.png" width="40" height="40" alt="Logo de Tinkercad"/></a> | <a href="https://www.autodesk.com/products/autocad/" target="_blank"><img src="data/autocad.png" width="40" height="40" alt="Logo de AutoCAD"/></a> |
 
 
 #### RAG & LLM
 
 | Docker | n8n | Qdrant | TensorFlow | Ollama | Gemini |
-| --- | --- | --- | --- | --- | --- |
-| <div align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/></a></div> | <div align="center"><a href="https://n8n.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" title="n8n" alt="n8n" width="40" height="40"/></a></div> | <div align="center"><a href="https://qdrant.tech/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/77017166?s=200&v=4" title="Qdrant" alt="Qdrant" width="40" height="40"/></a></div> | <div align="center"><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/></a></div> | <div align="center"><a href="https://ollama.ai/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/140176688?s=200&v=4" title="Ollama" alt="Ollama" width="40" height="40"/></a></div> | <div align="center"><a href="https://ai.google.dev/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/161094069?s=200&v=4" title="Gemini" alt="Gemini" width="40" height="40"/></a></div> |
-
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/></a> | <a href="https://n8n.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" title="n8n" alt="n8n" width="40" height="40"/></a> | <a href="https://qdrant.tech/" target="_blank" rel="noreferrer"><img src="data/qdrant.png" title="Qdrant" alt="Qdrant" width="40" height="40"/></a> | <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/></a> | <a href="https://ollama.ai/" target="_blank" rel="noreferrer"><img src="data/ollama.png" title="Ollama" alt="Ollama" width="40" height="40"/></a> | <a href="https://ai.google.dev/" target="_blank" rel="noreferrer"><img src="data/gemini.png" title="Gemini" alt="Gemini" width="40" height="40"/></a> |
 
 
 
 #### Other Tools
 
-| Git | Bash | Proteus | MATLAB | Assembly | Quartus |
-| --- | --- | --- | --- | --- | --- |
-| <div align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a></div> | <div align="center"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/></a></div> | <div align="center"><a href="https://www.labcenter.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/XcRka0p.png" title="Proteus" alt="Proteus" width="40" height="40"/></a></div> | <div align="center"><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLAB" alt="MATLAB" width="40" height="40"/></a></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Assembly_language_logo.svg/1200px-Assembly_language_logo.svg.png" title="Assembly" alt="Assembly" width="40" height="40"/></div> | <div align="center"><a href="https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/f/f2/Quartus_Prime_Logo.png" title="Quartus Prime" alt="Quartus Prime" width="40" height="40"/></a></div> |
-
-
+| Git | Bash | Proteus | MATLAB | Assembly | Quartus | PennyLane | Qiskit |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a> | <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/></a> | <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer"><img src="data/proteus.png" title="Proteus" alt="Proteus" width="40" height="40"/></a> | <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLAB" alt="MATLAB" width="40" height="40"/></a> | <img src="data/assembly.png" title="Assembly" alt="Assembly" width="40" height="40"/> | <a href="https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html" target="_blank" rel="noreferrer"><img src="data/quartus.png" title="Quartus Prime" alt="Quartus Prime" width="40" height="40"/></a> | <a href="https://pennylane.ai/" target="_blank" rel="noreferrer"><img src="data/pennylane.png" title="PennyLane" alt="PennyLane" width="40" height="40"/></a> | <a href="https://qiskit.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qiskit/qiskit-original.svg" title="Qiskit" alt="Qiskit" width="40" height="40"/></a> |
 
 ---
 
 #### 🌐 Web Development Profile
 
-In addition to my expertise in AI, automation, and embedded systems, I also craft responsive and user-friendly web interfaces. You can explore my web development projects, including HTML, CSS, and JavaScript applications, on this dedicated GitHub profile:
+In addition to my knowledge in AI, automation, and embedded systems, I also craft web interfaces. You can explore my web development projects, including HTML, CSS, and JavaScript applications, on this dedicated GitHub profile:
 
 [👉 Apps-Makers GitHub](https://github.com/Apps-Makers)
 
