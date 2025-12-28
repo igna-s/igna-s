@@ -42,7 +42,7 @@
 | 🧠 **AI Core** | **[Michigrad Engine](https://github.com/igna-s/Michigrad-Autograd-Engine)** | Scalar-valued **autograd engine** implemented from scratch. Replicates PyTorch's logic to demonstrate **backpropagation**. |
 | 🛡️ **Embedded** | **[Embedded Security CIAA](https://github.com/igna-s/Embedded-Security-System-CIAA)** | Real-time system for **EDU-CIAA (ARM Cortex-M4)**. Features **FSM logic**, interrupt handling, and GPIO management in C. |
 | 🖐️ **IoT/Hard** | **[Multitouch Surface](https://github.com/igna-s/IoT-Multitouch-Surface)** | Low-cost interactive surface powered by **ESP8266** and **HX711** load cells with real-time pressure visualization. |
-| 🎮 **Python Dev** | **[Python Arcade Platform](https://github.com/igna-s/Python-Arcade-Games)** | Modular arcade collection recreated with **Pygame**. Features **OOP Design** and game logic implementation (A*, Physics). |
+| 🎮 **Python Dev** | **[Python Arcade Platform](https://github.com/igna-s/Python-Arcade-Games)** | Modular arcade collection recreated with **Pygame**. Features **OOP Design** and game logic implementation. |
 
 > 🏆 **Competitive Excellence:** Finalist at the **2025 ICPC South America South Regionals**. Check my [ICPC Archive](https://github.com/igna-s/ICPC-Regional-Finals-2025).
 
