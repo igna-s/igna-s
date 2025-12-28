@@ -7,8 +7,11 @@
 </div>
 
 <p align="center">
-  I am an <strong>AI Engineer</strong> bridging the gap between High-Level Architectures and Low-Level Optimization. <br>
-  My passion lies in building scalable systems: from <strong>LLM Agents</strong> and <strong>Neural Networks</strong> to Physical IoT Devices.
+<p align="center">
+  <strong>AI Engineer & Computer Engineering Student @ UNLP.</strong> <br>
+  I bridge the gap between high-level logic and low-level signals, building <strong>software that thinks</strong> (AI/LLMs) and <strong>hardware that interacts</strong> (Embedded).
+</p>
+
 </p>
 
 <div align="center">
