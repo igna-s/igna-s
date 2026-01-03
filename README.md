@@ -40,7 +40,7 @@
 
 | Domain | Project | Description |
 | :--- | :--- | :--- |
-| 🤖 **Vtuber AI** | **[Realtime AI Avatar](https://github.com/igna-s/Realtime_Avatar_AI_Companion)** | End-to-end interface powered by **Google Gemini**. Features a customizable **VRM** character with low-latency voice interaction. |
+| 🤖 **Realtime Live AI** | **[Realtime AI Avatar](https://github.com/igna-s/Realtime_Avatar_AI_Companion)** | End-to-end interface powered by **Google Gemini**. Features a customizable **VRM** character with low-latency voice interaction. |
 | ⚛️ **RAG & Quantum** | **[Qiskit Migration Assistant](https://github.com/igna-s/Qiskit-RAG-Migration-Assistant)** | **RAG pipeline** designed to migrate legacy Quantum code using **n8n** and **VectorDBs** for context-aware suggestions. |
 | 🧠 **AI Core** | **[Michigrad Engine](https://github.com/igna-s/Michigrad-Autograd-Engine)** | Scalar-valued **autograd engine** implemented from scratch. Replicates PyTorch's logic to demonstrate **backpropagation**. |
 | 🛡️ **Embedded** | **[Embedded Security CIAA](https://github.com/igna-s/Embedded-Security-System-CIAA)** | Real-time system for **EDU-CIAA (ARM Cortex-M4)**. Features **FSM logic**, interrupt handling, and GPIO management in C. |
