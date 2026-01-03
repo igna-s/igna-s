@@ -63,10 +63,15 @@
 | :---: | :---: |
 | <img src="data/qiskit.png" width="50" alt="Qiskit"/> | <img src="data/pennylane.png" width="50" alt="PennyLane"/> |
 
-#### 💻 Software Engineering & DevOps
-| Docker | Git | Linux | Unity | React | C# | Java | JavaScript |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> |
+#### 💻 Software Engineering & Tools
+| C# | Java | Unity | Docker | Git | Linux |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/> |
+
+#### 🌐 Full Stack Web Development
+| React | JavaScript | Node.js | Vite | Bootstrap | MySQL | Postman |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50"/> |
 
 #### 🔌 Embedded Systems (Hardware Foundation)
 | C | C++ | Assembly | ESP32 | Arduino | MATLAB | SolidWorks | Proteus |
