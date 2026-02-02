@@ -99,7 +99,6 @@ Check out my Web Dev projects here:
   </p>
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=igna-s&theme=dracula" alt="Top Langs" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=igna-s&theme=dracula" alt="Productive Time" />
   </p>
 </div>
 
