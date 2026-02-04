@@ -40,6 +40,7 @@
 
 | Domain | Project | Description |
 | :--- | :--- | :--- |
+| 🏦 **Fullstack AI Agent** | **[VaultMind AI](https://github.com/igna-s/VaultMind-AI-RAG-Banking-Agent)** | Full-stack **RAG** system demo for banking. Features **LangGraph**, **FastAPI**, and **React**. Powered by **Groq** and **Voyage AI**. |
 | 🤖 **Realtime Live AI** | **[Realtime AI Avatar](https://github.com/igna-s/Realtime_Avatar_AI_Companion)** | End-to-end interface powered by **Google Gemini**. Features a customizable **VRM** character with low-latency voice interaction. |
 | ⚛️ **RAG & Quantum** | **[Qiskit Migration Assistant](https://github.com/igna-s/Qiskit-RAG-Migration-Assistant)** | **RAG pipeline** designed to migrate legacy Quantum code using **n8n** and **VectorDBs** for context-aware suggestions. |
 | 🧠 **AI Core** | **[Michigrad Engine](https://github.com/igna-s/Michigrad-Autograd-Engine)** | Scalar-valued **autograd engine** implemented from scratch. Replicates PyTorch's logic to demonstrate **backpropagation**. |
@@ -52,11 +53,10 @@
 ---
 
 ### 🛠️ Technical Arsenal
-
 #### 🧠 AI, LLMs & Data Engineering
-| Python | TensorFlow | PyTorch | LangChain | Gemini | n8n | Scikit-Learn | Pandas |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50"/> | <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="50"/> | <img src="data/gemini.png" width="50" alt="Gemini"/> | <img src="data/n8n.png" width="50" alt="n8n"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/> |
+| Python | TensorFlow | PyTorch | LangChain | LangGraph | Gemini | n8n | Scikit-Learn | Pandas |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50"/> | <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="50"/> | <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white" height="50"/> | <img src="data/gemini.png" width="50" alt="Gemini"/> | <img src="data/n8n.png" width="50" alt="n8n"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/> |
 
 #### ⚛️ Quantum Computing
 | Qiskit | PennyLane |
@@ -64,14 +64,16 @@
 | <img src="data/qiskit.png" width="50" alt="Qiskit"/> | <img src="data/pennylane.png" width="50" alt="PennyLane"/> |
 
 #### 💻 Software Engineering & Tools
-| C# | Java | Unity | Docker | Git | Linux |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/> |
+| C# | Java | Unity | Docker | Azure | Git | Linux |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/> ||
 
 #### 🌐 Full Stack Web Development
-| React | JavaScript | Node.js | Vite | Bootstrap | MySQL | Postman |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50"/> |
+
+| React | FastAPI | JavaScript | Node.js | Vite | Tailwind | PostgreSQL | MySQL | Postman | Uvicorn | Gunicorn |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50"/> | <img src="data/uvicorn.jpeg" width="50"/> | <img src="data/gunicorn.jpeg" width="50"/> |
+
 
 #### 🔌 Embedded Systems (Hardware Foundation)
 | C | C++ | Assembly | ESP32 | Arduino | MATLAB | SolidWorks | Proteus |
@@ -108,3 +110,6 @@ Check out my Web Dev projects here:
   <h4>🔥 My Contribution Streak</h4>
   <img src="https://raw.githubusercontent.com/igna-s/igna-s/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </div>
+
+
+
