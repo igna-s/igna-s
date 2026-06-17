@@ -43,12 +43,33 @@
 | 🏦 **Fullstack AI Agent** | **[VaultMind AI](https://github.com/igna-s/VaultMind-AI-RAG-Banking-Agent)** | Full-stack **RAG** system demo for banking. Features **LangGraph**, **FastAPI**, and **React**. Powered by **Groq** and **Voyage AI**. |
 | 🤖 **Realtime Live AI** | **[Realtime AI Avatar](https://github.com/igna-s/Realtime_Avatar_AI_Companion)** | End-to-end interface powered by **Google Gemini**. Features a customizable **VRM** character with low-latency voice interaction. |
 | ⚛️ **RAG & Quantum** | **[Qiskit Migration Assistant](https://github.com/igna-s/Qiskit-RAG-Migration-Assistant)** | **RAG pipeline** designed to migrate legacy Quantum code using **n8n** and **VectorDBs** for context-aware suggestions. |
+| 🎬 **AI Pipeline** | **[AI Video Generation Pipeline](https://github.com/igna-s/AI-Video-Generation-Pipeline)** | Local video generator that creates audio, video, subtitles, background music and a talking head avatar. Powered by local AI models. |
 | 🧠 **AI Core** | **[Michigrad Engine](https://github.com/igna-s/Michigrad-Autograd-Engine)** | Scalar-valued **autograd engine** implemented from scratch. Replicates PyTorch's logic to demonstrate **backpropagation**. |
 | 🛡️ **Embedded** | **[Embedded Security CIAA](https://github.com/igna-s/Embedded-Security-System-CIAA)** | Real-time system for **EDU-CIAA (ARM Cortex-M4)**. Features **FSM logic**, interrupt handling, and GPIO management in C. |
 | 🖐️ **IoT/Hard** | **[Multitouch Surface](https://github.com/igna-s/IoT-Multitouch-Surface)** | Low-cost interactive surface powered by **ESP8266** and **HX711** load cells with real-time pressure visualization. |
 | 🎮 **Python Dev** | **[Python Arcade Platform](https://github.com/igna-s/Python-Arcade-Games)** | Modular arcade collection recreated with **Pygame**. Features **OOP Design** and game logic implementation. |
 
-> 🏆 **Competitive Excellence:** Finalist at the **2025 ICPC South America South Regionals**. Check my [ICPC Archive](https://github.com/igna-s/ICPC-Regional-Finals-2025).
+
+---
+
+
+### 🏆 Competitions & Open Source
+
+| Event | Project | Description |
+| :--- | :--- | :--- |
+| 🤖 **Google MLSys** | **[MLSys Competition Track](https://github.com/igna-s/MLSys)** | My submission for the **Google MLSys Competition Track** — scheduling & optimization problems in **C++**, focused on ML systems performance. |
+| 🚀 **Hackathon · lablab.ai** | **[Meridian AI Agent](https://github.com/igna-s/Meridian-Ai-Agent)** | AI-first project management platform built for a **lablab.ai hackathon**. Serverless architecture powered by **React** + **AMD MI300X** inference endpoint. |
+| ⚔️ **ICPC 2025** | **[ICPC Regional Finals 2025](https://github.com/igna-s/ICPC-Regional-Finals-2025)** | Archive of algorithms & solutions for the **ICPC South America South Regionals 2025**. Graphs, DP, data structures in **C++**. |
+
+---
+
+### 🎓 University @ UNLP
+
+> Check out my university work → **[github.com/igna-s?tab=repositories](https://github.com/igna-s/University-Coursework-Archive)**
+
+<!-- Uncomment and add your university org/folder link when ready -->
+<!-- 📚 [Ver proyectos universitarios](https://github.com/tu-org-unlp) -->
+
 
 ---
 
@@ -57,6 +78,8 @@
 | Python | TensorFlow | PyTorch | LangChain | LangGraph | Gemini | n8n | Scikit-Learn | Pandas |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50"/> | <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="50"/> | <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white" height="50"/> | <img src="data/gemini.png" width="50" alt="Gemini"/> | <img src="data/n8n.png" width="50" alt="n8n"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/> |
+
+
 
 #### ⚛️ Quantum Computing
 | Qiskit | PennyLane |
@@ -70,15 +93,18 @@
 
 #### 🌐 Full Stack Web Development
 
-| React | FastAPI | JavaScript | Node.js | Vite | Tailwind | PostgreSQL | MySQL | Postman | Uvicorn | Gunicorn |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50"/> | <img src="data/uvicorn.jpeg" width="50"/> | <img src="data/gunicorn.jpeg" width="50"/> |
+| React | TypeScript | Next.js | FastAPI | JavaScript | Node.js | Vite | Tailwind | PostgreSQL | MySQL | Postman | Uvicorn | Gunicorn |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50"/> | <img src="data/uvicorn.jpeg" width="50"/> | <img src="data/gunicorn.jpeg" width="50"/> |
 
 
-#### 🔌 Embedded Systems (Hardware Foundation)
-| C | C++ | Assembly | ESP32 | Arduino | MATLAB | SolidWorks | Proteus |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/> | <img src="data/assembly.png" width="50" alt="Assembly"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50"/> | <img src="data/solidworks.png" width="50" alt="SolidWorks"/> | <img src="data/proteus.png" width="50" alt="Proteus"/> |
+
+#### 🔌 Embedded Systems & GPU Computing
+
+| C | C++ | Assembly | CUDA | AMD ROCm | ESP32 | Arduino | MATLAB | SolidWorks | Proteus |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/> | <img src="data/assembly.png" width="50" alt="Assembly"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cuda/cuda-original.svg" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/AMD_Logo.svg" width="50" alt="AMD ROCm/HIP"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50"/> | <img src="data/solidworks.png" width="50" alt="SolidWorks"/> | <img src="data/proteus.png" width="50" alt="Proteus"/> |
+
 
 ---
 
