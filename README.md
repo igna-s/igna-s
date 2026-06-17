@@ -58,7 +58,7 @@
 | Event | Project | Description |
 | :--- | :--- | :--- |
 | 🤖 **Google MLSys** | **[MLSys Competition Track](https://github.com/igna-s/MLSys)** | My submission for the **Google MLSys Competition Track** — scheduling & optimization problems in **C++**, focused on ML systems performance. |
-| 🚀 **Hackathon · lablab.ai** | **[Meridian AI Agent](https://github.com/igna-s/Meridian-Ai-Agent)** | AI-first project management platform built for a **lablab.ai hackathon**. Serverless architecture powered by **React** + **AMD MI300X** inference endpoint. |
+| 🚀 **AMD Hackathon** | **[Meridian AI Agent](https://github.com/igna-s/Meridian-Ai-Agent)** | AI-first project management platform built for a **lablab.ai hackathon**. Serverless architecture powered by **React** + **AMD MI300X** inference endpoint. |
 | ⚔️ **ICPC 2025** | **[ICPC Regional Finals 2025](https://github.com/igna-s/ICPC-Regional-Finals-2025)** | Archive of algorithms & solutions for the **ICPC South America South Regionals 2025**. Graphs, DP, data structures in **C++**. |
 
 ---
@@ -78,7 +78,6 @@
 | Python | TensorFlow | PyTorch | LangChain | LangGraph | Gemini | n8n | Scikit-Learn | Pandas |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50"/> | <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="50"/> | <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white" height="50"/> | <img src="data/gemini.png" width="50" alt="Gemini"/> | <img src="data/n8n.png" width="50" alt="n8n"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/> |
-
 
 
 #### ⚛️ Quantum Computing
@@ -103,8 +102,7 @@
 
 | C | C++ | Assembly | CUDA | AMD ROCm | ESP32 | Arduino | MATLAB | SolidWorks | Proteus |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/> | <img src="data/assembly.png" width="50" alt="Assembly"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cuda/cuda-original.svg" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/AMD_Logo.svg" width="50" alt="AMD ROCm/HIP"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50"/> | <img src="data/solidworks.png" width="50" alt="SolidWorks"/> | <img src="data/proteus.png" width="50" alt="Proteus"/> |
-
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/> | <img src="data/assembly.png" width="50" alt="Assembly"/> | <img src="https://cdn.simpleicons.org/nvidia/76B900" width="50" alt="CUDA"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/AMD_Logo.svg" width="50" alt="AMD ROCm/HIP"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50"/> | <img src="data/solidworks.png" width="50" alt="SolidWorks"/> | <img src="data/proteus.png" width="50" alt="Proteus"/> |
 
 ---
 
