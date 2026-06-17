@@ -110,7 +110,7 @@
 
 ### 🌐 Web Development Profile
 
-In addition to Engineering & AI, I craft web interfaces.
+In addition to Engineering & AI, I crafted some time ago some web interfaces.
 Check out my Web Dev projects here:
 <br>
 <a href="https://github.com/Apps-Makers">
