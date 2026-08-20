@@ -101,16 +101,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/> | <img src="data/assembly.png" width="50" alt="Assembly"/> | <img src="https://cdn.simpleicons.org/nvidia/76B900" width="50" alt="CUDA"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/AMD_Logo.svg" width="50" alt="AMD ROCm/HIP"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50"/> | <img src="data/solidworks.png" width="50" alt="SolidWorks"/> | <img src="data/proteus.png" width="50" alt="Proteus"/> |
 
----
 
-### 🌐 Web Development Profile
-
-In addition to Engineering & AI, I crafted some time ago some web interfaces.
-Check out my Web Dev projects here:
-<br>
-<a href="https://github.com/Apps-Makers">
-  <img src="https://img.shields.io/badge/👉_Go_to_Apps--Makers_Profile-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 ---
 
