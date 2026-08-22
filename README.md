@@ -2,16 +2,13 @@
   <h1 align="center">Hi there, I'm Ignacio A. Schwindt 👋</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Developer;Computer+Engineering+Student;ICPC+Regional+Finalist;Quantum+Computing+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Engineer+%40+UNLP;FDE+%40+Machines+Like+Me;ICPC+Regional+Finalist;Pushing+Limits+with+LLMs;Quantum+Computing+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-<p align="center">
-  <strong>AI Engineer & Computer Engineering Student @ UNLP.</strong> <br>
+  <strong>Computer Engineer @ UNLP • FDE @ Machines Like Me.</strong> <br>
   I bridge the gap between high-level logic and low-level signals, building <strong>software that thinks</strong> (AI/LLMs) and <strong>hardware that interacts</strong> (Embedded).
-</p>
-
 </p>
 
 <div align="center">
@@ -30,7 +27,6 @@
 </div>
 
 <br>
-
 ---
 
 ### 🔭 Featured Projects (AI & R&D)
