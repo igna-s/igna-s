@@ -18,6 +18,9 @@
   <a href="mailto:ignacio.schwindt.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="https://igna-s.is-a.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Web%20Page-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Page"/>
+  </a>
 </div>
 
 <br>
