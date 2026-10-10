@@ -103,7 +103,7 @@
 
 ---
 
-### 📊 Engineering Metrics
+### 📊 My Metrics :)
 
 <div align="center">
   <p>
@@ -113,3 +113,10 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=igna-s&theme=dracula" alt="Top Langs" />
   </p>
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igna-s/igna-s/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igna-s/igna-s/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/igna-s/igna-s/output/github-contribution-grid-snake.svg" />
+</picture>
