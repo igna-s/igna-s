@@ -103,20 +103,27 @@
 
 ---
 
-### 📊 My Metrics :)
+## 📊 My Metrics
 
 <div align="center">
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igna-s&theme=dracula" alt="Profile Details" />
+  <!-- Profile & Language Cards -->
+  <a href="https://github.com/igna-s">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igna-s&theme=dracula" alt="Profile Details" height="150" />
+  </a>
+  <a href="https://github.com/igna-s">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=igna-s&theme=dracula" alt="Top Languages" height="150" />
+  </a>
+ <p align="center">
+    <b> </b>
   </p>
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=igna-s&theme=dracula" alt="Top Langs" />
+  <!-- Subtítulo conector -->
+  <p align="center">
+    <b>🐍 Feeding the future </b>
   </p>
+  <!-- Snake Contribution Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igna-s/igna-s/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igna-s/igna-s/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/igna-s/igna-s/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igna-s/igna-s/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igna-s/igna-s/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/igna-s/igna-s/output/github-contribution-grid-snake.svg" />
-</picture>
