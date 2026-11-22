@@ -21,9 +21,6 @@
   <a href="https://igna-s.is-a.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Web%20Page-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Page"/>
   </a>
-  <a href="https://orcid.org/0009-0006-8590-187X" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
-  </a>
   <a href="https://huggingface.co/datasets/Cukinator/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   </a>
